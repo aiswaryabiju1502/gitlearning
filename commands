@@ -30,3 +30,14 @@ command for adding user name.
  command for adding staged files to local repository 
  
  >git commit -m "commit message" 
+
+ command for adding to remote repository
+
+ >git remote add remotename path
+
+ command for pushing to remote repository
+
+ >git push remotename master
+
+ to get exact copy from local repository to remote repository ......>clone
+ to get changes only .........>push
