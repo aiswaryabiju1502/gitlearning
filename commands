@@ -41,3 +41,6 @@ command for adding user name.
 
  to get exact copy from local repository to remote repository ......>clone
  to get changes only .........>push
+
+command for listing 
+>git -v
