@@ -2,9 +2,6 @@
  
  >git --version
 
->command for chking git veriosn 
- 
- >git-version 
  
  command for listing configuration 
  
